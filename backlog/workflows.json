@@ -1,0 +1,37 @@
+[
+  {
+    "workflow_id": "WF-001",
+    "name": "Decision to Codex Task Specification",
+    "purpose": "Transform business input into structured task JSON for engineering execution.",
+    "status": "active",
+    "priority": "P0"
+  },
+  {
+    "workflow_id": "WF-002",
+    "name": "Task Intake",
+    "purpose": "Standardize intake of approved tasks into planning.",
+    "status": "planned",
+    "priority": "P1"
+  },
+  {
+    "workflow_id": "WF-003",
+    "name": "Documentation Update",
+    "purpose": "Ensure documentation reflects accepted engineering changes.",
+    "status": "planned",
+    "priority": "P1"
+  },
+  {
+    "workflow_id": "WF-004",
+    "name": "Review Agent",
+    "purpose": "Provide structured AI-assisted review before merge.",
+    "status": "planned",
+    "priority": "P1"
+  },
+  {
+    "workflow_id": "WF-005",
+    "name": "Next Step Recommendation",
+    "purpose": "Recommend highest-value next task after each cycle.",
+    "status": "planned",
+    "priority": "P2"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "user_message": "Chcę zbudować moduł klientów dla Mula Core, gdzie będę widział firmy, status wdrożenia, kontakt, etap projektu i ostatnią aktywność.",
+  "project_name": "Mula Core",
+  "requested_module": "Clients Module",
+  "priority": "P0",
+  "source": "manual n8n test",
+  "owner": "Piotr Mula"
+}

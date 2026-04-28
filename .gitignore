@@ -1,0 +1,12 @@
+.secrets/
+credentials/
+.env
+.env.local
+*.credentials.json
+client_secret*.json
+service-account*.json
+token.json
+node_modules/
+dist/
+build/
+.DS_Store

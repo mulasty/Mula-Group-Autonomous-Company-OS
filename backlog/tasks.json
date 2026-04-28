@@ -1,0 +1,10 @@
+[
+  {
+    "task_id": "TASK-001",
+    "title": "Add Clients Module Foundation to Mula Core",
+    "status": "ready_for_review",
+    "workflow_id": "WF-001",
+    "branch": "feature/clients-module-foundation",
+    "commit": "feat: add clients module foundation"
+  }
+]
